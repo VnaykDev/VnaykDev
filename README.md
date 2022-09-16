@@ -1,6 +1,7 @@
 Hey I'm Vinayak. I'm a senior at CSUMB studying Computer Science and communication design :desktop_computer: :paintbrush:  
 I'm a UI UX Engineer and I love the intersection of visual design and computer science. I love to create fluid and smooth user experiences for software :iphone:  
-I use GitHub for college submissions and project repos  
+I use GitHub for college submissions and project repos  <br>
+Linkedin - https://www.linkedin.com/in/vnaykir/
 
 
 <!---
