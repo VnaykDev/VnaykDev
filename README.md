@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Vinayak Iyer
-- 👀 I’m interested in UX Research
-- 🌱 I’m currently learning Software Design and UX modelling
-- 📫 How to reach me - viyer@csumb.edu
+Hey I'm Vinayak. I'm a senior at CSUMB studying Computer Science and communication design :desktop_computer: :paintbrush:  
+I'm a UI UX Engineer and I love the intersection of visual design and computer science. I love to create fluid and smooth user experiences for software :iphone:  
+I use GitHub for college submissions and project repos  
 
 
 <!---
