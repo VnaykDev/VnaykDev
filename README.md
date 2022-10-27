@@ -4,7 +4,7 @@ I'm a UI UX Engineer, and I enjoy learning about the intersection of visual desi
 I use GitHub for college submissions and project repos  <br>
 
   
-Best way to reach me - [My email!](vinayakiyer@hotmail.com)  
+Best way to reach me - [My email!](mailto:vinayakiyer@hotmail.com)  
 Linkedin - https://www.linkedin.com/in/vnaykir/
 
 
