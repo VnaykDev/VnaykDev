@@ -1,4 +1,4 @@
-Everything UX 🧠🖌️
+Agile and UX 🧠🖌️
 
   
 Best way to reach me - [My email!](mailto:vinayakiyer1234@gmail.com) - vinayakiyer1234@gmail.com
