@@ -1,4 +1,7 @@
-Agile and UX 🧠🖌️
+Robotics Grad Student @ ASU
+Prev CompSci @ CSUMB
+
+This place has seen very little action in a long time because I rarely do personal projects.
 
   
 Best way to reach me - [My email!](mailto:vinayakiyer1234@gmail.com) - vinayakiyer1234@gmail.com
